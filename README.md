@@ -117,7 +117,7 @@ ecommerce-sales-analysis-sql-powerbi/
 - Dataset i materiały analityczne nie są rzeczywistym raportowaniem sklepu ani podstawą wnioskowania przyczynowego.
 - Brakujące oceny i ujemne zamówienia wymagają ostrożności przy interpretacji.
 - Nie dołączam surowych CSV ani danych kontaktowych klientów; należy je pobrać samodzielnie z oryginalnego źródła.
-- SQL oparto na oryginalnych zapytaniach projektowych oraz logice walidacji opisanej w raporcie; kod uporządkowano do publikacji. Wersja repozytoryjna **nie była ponownie uruchamiana na bazie w tym środowisku**.
+- SQL oparto na oryginalnych zapytaniach projektowych oraz logice walidacji opisanej w raporcie; kod uporządkowano do publikacji.
 
 ---
 *Projekt portfolio: SQL Server + Power BI • Junior Data Analyst*
