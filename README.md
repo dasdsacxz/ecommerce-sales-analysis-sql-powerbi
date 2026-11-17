@@ -113,7 +113,7 @@ ecommerce-sales-analysis-sql-powerbi/
 
 ## Źródło i ograniczenia
 
-- Źródło: **Jatin Khandelwal — *Indian E-Commerce Sales Analytics Dataset*, Kaggle**; dane syntetyczne/publiczne, wykorzystywane do projektu edukacyjnego.
+- Źródło: **Jatin Khandelwal — *Indian E-Commerce Sales Analytics Dataset*, Kaggle** https://www.kaggle.com/datasets/jatinkhandelwal112/indian-e-commerce-sales-analytics-dataset?select=sales.csv; dane syntetyczne/publiczne, wykorzystywane do projektu edukacyjnego.
 - Dataset i materiały analityczne nie są rzeczywistym raportowaniem sklepu ani podstawą wnioskowania przyczynowego.
 - Brakujące oceny i ujemne zamówienia wymagają ostrożności przy interpretacji.
 - Nie dołączam surowych CSV ani danych kontaktowych klientów; należy je pobrać samodzielnie z oryginalnego źródła.
