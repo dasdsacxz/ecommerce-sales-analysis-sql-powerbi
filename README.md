@@ -109,7 +109,7 @@ ecommerce-sales-analysis-sql-powerbi/
 4. Po utworzeniu tabel `dbo.Sales`, `dbo.Customers` i `dbo.Products` uruchom pozostałe zapytania.
 5. Porównaj rezultaty z definicjami KPI i z raportem PDF.
 
-**Power BI:** repozytorium zawiera zrzut ukończonego dashboardu; plik źródłowy `.pbix` **nie został udostępniony w paczce**. Jeśli posiadasz lokalny `.pbix`, warto go dodać do katalogu `powerbi/`, aby rekruter mógł obejrzeć relacje, miary DAX i interakcje.
+**Power BI:** plik źródłowy raportu jest w katalogu [`powerbi/`](powerbi/), a zrzut dashboardu w `assets/dashboard.png`. Otwórz plik `.pbix` w Power BI Desktop, żeby zobaczyć model danych, miary DAX i interakcje.
 
 ## Źródło i ograniczenia
 
